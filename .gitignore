@@ -176,3 +176,8 @@ cython_debug/
 # pixi environments
 .pixi
 *.egg-info
+
+# tutorial images
+figures/
+# All ROOT files
+*.root
